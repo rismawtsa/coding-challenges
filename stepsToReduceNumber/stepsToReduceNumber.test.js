@@ -17,6 +17,3 @@ inputAndOutputs.forEach((item) => {
     expect(numberOfSteps(item.input)).toEqual(item.output);
   });
 });
-14;
-8;
-123;
