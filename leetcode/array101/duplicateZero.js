@@ -13,6 +13,7 @@ const duplicateZerosInPlaceV1 = function (arr) {
   let fixLength = arr.length - 1;
   while (i < fixLength) {
     if (arr[i] === 0) {
+      // shift to the right to make a empty space after the index of 0
       for (let j = fixLength - 1; j > i; j--) {
         arr[j + 1] = arr[j];
       }
