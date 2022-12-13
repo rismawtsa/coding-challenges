@@ -2,7 +2,7 @@ package hackerRank.java;
 
 import java.util.Scanner;
 
-public class stdinAndStdout {
+public class StdinAndStdout {
 
     /**
      * https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen

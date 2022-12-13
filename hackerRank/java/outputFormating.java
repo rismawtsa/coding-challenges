@@ -17,7 +17,7 @@ import java.util.Scanner;
  * python         050 
  * ================================
  */
-public class outputFormating {
+public class OutputFormating {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("==============================");

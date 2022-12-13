@@ -13,7 +13,7 @@ import java.util.Scanner;
  * number and print all n lines of content.
  * Hint: Java's Scanner.hasNext() method is helpful for this problem.
  */
-public class endOfFiles {
+public class EndOfFiles {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         short i = 1;
