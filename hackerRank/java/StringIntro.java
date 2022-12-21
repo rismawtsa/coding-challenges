@@ -19,5 +19,6 @@ public class StringIntro {
         System.out.println(A.length() + B.length());
         System.out.println(A.compareTo(B) > 0 ? "Yes" : "No");
         System.out.println(capitalizeString(A) + " " + capitalizeString(B));
+        sc.close();
     }
 }

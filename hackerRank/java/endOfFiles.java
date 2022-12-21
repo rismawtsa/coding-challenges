@@ -22,6 +22,7 @@ public class EndOfFiles {
             System.out.printf("%d %s%n", i, string);
             i++;
         }
+        scan.close();
     }
 
 }

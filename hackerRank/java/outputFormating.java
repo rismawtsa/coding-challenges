@@ -46,5 +46,6 @@ public class OutputFormating {
             System.out.printf("%-15s%03d%n", a, b);
         }
         System.out.println("==============================");
+        scan.close();
     }
 }
